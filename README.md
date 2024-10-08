@@ -3,7 +3,7 @@
 ## Descripción
 Este programa es una **aplicación de gestión de tareas pendientes** creada con la biblioteca 'tkinter' de Python, que proporciona una interfaz gráfica de usuario para agregar, eliminar y marcar tareas como completadas. 
 
-## Requisitos:
+## Requisitos
 Para ejecutar esta aplicación se necesita tener instalado python, la biblioteca se incluye en la instalación de python, por lo que no se debe descargar nada adicional.
 
 ## Ejemplo de ejecución
