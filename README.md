@@ -16,4 +16,4 @@ Para utilizar el programa, siga los siguientes pasos:
 python AplicacionTareas.py <directorio>
 
 ## Ejemplo de ejecución
-![Captura de pantalla 2024-10-07 225154](https://github.com/nanyugaldr/AplicacionTareas/blob/main/Captura%20de%20pantalla%202024-10-07%20225154.png)
+![Captura de pantalla](https://github.com/nanyugaldr/AplicacionTareas/blob/main/Captura%20de%20pantalla%202024-10-07%20225154.png)
