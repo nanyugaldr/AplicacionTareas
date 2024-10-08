@@ -16,4 +16,4 @@ Para utilizar el programa, siga los siguientes pasos:
 python AplicacionTareas.py <directorio>
 
 ## Ejemplo de ejecución
-(\Users\USUARIO\OneDrive\Desktop\Captura de pantalla 2024-10-07 225154.png)
+!(\Users\USUARIO\OneDrive\Desktop\Captura de pantalla 2024-10-07 225154.png)
