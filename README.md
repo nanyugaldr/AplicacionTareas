@@ -12,8 +12,8 @@ Para utilizar el programa, siga los siguientes pasos:
 1. Abra una terminal y navegue al directorio donde se encuentra el programa.
 
 2. Ejecute el programa utilizando el siguiente comando:
-
-python AplicacionTareas.py <directorio>
  ```bash
+python AplicacionTareas.py <directorio>
+
 ## Ejemplo de ejecución
 ![Captura de pantalla](https://github.com/nanyugaldr/AplicacionTareas/blob/main/Captura%20de%20pantalla%202024-10-07%20225154.png)
